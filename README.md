@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aryanpachchigar
 - 👀 I’m interested in coding & online gaming
-- 🌱 I’m currently pursuing
+- 🌱 I’m currently pursuing comp.sci engg
 - 💞️ I’m looking to collaborate on open source
 - 📫 How to reach me aryanpachchigar12@gmail.com
 
