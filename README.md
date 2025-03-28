@@ -1,8 +1,6 @@
 # こんにちは、世界！🌸 (Hello, World!)
 
-<div align="center">
-  <img src="https://i.imgur.com/4M7IWwP.gif" alt="Anime Banner" width="100%" />
-</div>
+
 
 <h1 align="center">✨ Aryan Pachchigar ✨</h1>
 
@@ -30,4 +28,4 @@
 💻 Languages:   JavaScript | TypeScript | C++ | Python
 ⚔️ Backend:     Node.js | Express | MongoDB
 🎨 Frontend:    React | TailwindCSS
-🛡️ Others:     Git | Postman | Docker | Firebase
+🛡️ Others:     Git | Postman 
